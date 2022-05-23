@@ -1,0 +1,4 @@
+-Dcatalina.home=.
+-Dcatalina.base=.
+-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+-Djava.util.logging.config.file=conf/logging.properties
